@@ -6,7 +6,8 @@ In this project, you first load the insurance dataset and split it into features
 
 Dataset
 
-The dataset used in this project is the 
+The dataset used in this project is [insurance.csv](https://github.com/Levi-Lamar/HETEROGENEOUS-ENSEMBLE-Insurance/files/10929050/insurance.csv)
+
 
 Which contains information about the patient details. The dataset includes 1339 instances and 7 attributes including the charges of patient registered.
 
